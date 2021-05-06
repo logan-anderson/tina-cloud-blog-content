@@ -7,7 +7,7 @@ description: >-
   incididunt reprehenderit velit qui. Sint nostrud fugiat laboris ut.
 imgurl: >-
   https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
-author: content/authors/pedro.md
+author: tina-cloud-blog-content/authors/pedro.md
 _template: article
 ---
 # Cura ne numina utentem refers
